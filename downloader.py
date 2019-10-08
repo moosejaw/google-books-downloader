@@ -41,7 +41,6 @@ if __name__ == '__main__':
         # Increment counter for file output
         file_counter += 1
         output = f'{OUTPUT_FOLDER}{OUTPUT_FILE_PREFIX}{str(file_counter)}{OUTPUT_FILE_EXTENSION}'
-        qs = {}
 
         # Output the response to a file
         with open(output, 'wb') as f:
