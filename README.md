@@ -1,5 +1,5 @@
 # Google Books Downloader
-This tool downloads the contents of a Google books preview to a collection of `.png` files. These images can then be converted into `.pdf` files using tools such as [this one](https://png2pdf.com/).
+This tool downloads the contents of a Google books preview to a collection of `.png` files. These images can then be converted into `.pdf` files using tools such as [this one](https://png2pdf.com/). Use this responsibly!
 
 It runs in Python 3.x.
 
