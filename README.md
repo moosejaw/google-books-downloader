@@ -24,7 +24,7 @@ Then, select a request which returned one of the images you need (i.e., a reques
 
 Then, copy your Cookie and User Agent values into the `HEADER` global variable in `downloader.py`.
 
-You can also modify the other global variables to adjust the input file or the output. For example, you should repoint the `HAR\_FILE` variable to the `.har` file you downloaded. You may also need to manually create the directory to which you save the image files, as specified in `OUTPUT\_FOLDER`.
+You can also modify the other global variables to adjust the input file or the output. For example, you should repoint the `HAR_FILE` variable to the `.har` file you downloaded. You may also need to manually create the directory to which you save the image files, as specified in `OUTPUT_FOLDER`.
 
 Now, run the script from your command window. You should notice that the output folder is populated with a new image every two seconds.
 
