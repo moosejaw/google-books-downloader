@@ -9,6 +9,12 @@ On MacOS you may need to install SSL certificates for Python 3.x by running:
 /Applications/Python\ 3.7/Install\ Certificates.command
 ```
 
+## Requirements
+You need the `requests` module for this to work. Install it by running:
+```bash
+pip3 install -r requirements.txt
+```
+
 ## Running the downloader
 To run this downloader you need to acquire a `.har` file containing all of the GET requests your browser made for the image files.
 
